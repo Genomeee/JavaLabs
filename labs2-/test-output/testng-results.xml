@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34" started-at="2017-11-30T17:02:17Z" finished-at="2017-11-30T17:02:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34" started-at="2017-11-30T17:02:17Z" finished-at="2017-11-30T17:02:17Z">
+      <class name="labs2.BicycleTest">
+        <test-method status="PASS" signature="cursTest(labs2.Bicycle, int)[pri:0, instance:labs2.BicycleTest@4439f31e]" name="cursTest" duration-ms="9" started-at="2017-11-30T19:02:17Z" data-provider="cursProvider" finished-at="2017-11-30T19:02:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bicycle [made=null, id=0, price=5000, gear=0, speed=0, type=null]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[185]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cursTest -->
+      </class> <!-- labs2.BicycleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
